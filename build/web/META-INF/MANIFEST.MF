@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Mensaje-del-curso: Nada es absoluto, todo es relativo.
+
