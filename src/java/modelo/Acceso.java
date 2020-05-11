@@ -12,7 +12,7 @@ package modelo;
 public class Acceso {
     public Boolean autentificar(String username, String password){
         Boolean respuesta;
-        if(username.equals("PROFESOR") && password.equals("password")){
+        if(username.equals("orfelinda") && password.equals("admin")){
             respuesta = true;            
         }else{
             respuesta = false;
